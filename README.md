@@ -562,6 +562,8 @@ The ability to monitor data in Elasticsearch and create visualizations in Kibana
 ## Troubleshooting
 
 - Encountered issues during the setup? I have got you covered! Check out my for step-by-step solutions to common problems with Elasticsearch, Kibana, Filebeat, and other components.
+
+ https://github.com/Amahdavi-cybersecurity/SIEM-Project-Troubleshooting-Log.git
   
 
 ## Conclusion:
